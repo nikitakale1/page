@@ -1,0 +1,47 @@
+body{
+    background-image:linear-gradient( #302323,#302323);
+  height: 630vh;
+  background-color: #302323;
+  font-family: 'Gilroy';
+ 
+}
+.float-left{
+    background-color:#fff8fc;
+    height: 100vh;
+    /* margin-left: 25.9%;
+   padding-top: 11%; */
+}
+/* .the{
+    font-family: 'Gilroy';
+    margin: 0% 0% 0% 15%;
+    font-size: 18px;
+} */
+.float-right{
+    height: 100vh;
+    /* margin-left: -20px; */
+    }
+.float{
+  position: fixed;
+    background-color: #382c2c;
+    height: 100vh;
+    color: #ffffff;
+}
+/* .name{
+    color: #f37b83;
+    margin: 50% 0% 0% 15%;
+    font-size: 14px;
+  }
+.role{
+    color: #f37b83;
+    margin: 7% 0% 0% 15%;
+    font-size: 14px;
+  }
+.eml{
+    color: #f37b83;
+    margin: 7% 0% 0% 15%;
+    font-size: 14px;
+}
+.span{
+    font-size: 29px;
+   margin:0% 0% 10% 14%;
+   } */
